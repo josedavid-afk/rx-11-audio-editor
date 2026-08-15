@@ -1,0 +1,6 @@
+*.html linguist-vendored
+public/*.html linguist-vendored
+go.sum linguist-generated
+*.tsx linguist-detectable
+*.ico binary
+# eof c37b1d95
