@@ -1,0 +1,7 @@
+*.tgz
+dist/
+.pnpm-store/
+node_modules/
+.next/
+.cache/
+coverage/
